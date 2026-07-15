@@ -8,9 +8,8 @@ class Solution {
                 if(st.isEmpty()) return false;
                  char ch= st.peek();
                  st.pop();
-                 if(s.charAt(i)==')' && ch=='(' || s.charAt(i)=='}' && ch=='{' || s.charAt(i)==']' && ch=='['){
+                 if(s.charAt(i)==')' && ch!='(' || s.charAt(i)=='}' && ch!='{' || s.charAt(i)==']' && ch!='['){
 
-                 }else{
                     return false;
                  }
             }
