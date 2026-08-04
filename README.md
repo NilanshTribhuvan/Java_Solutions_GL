@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
