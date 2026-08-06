@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
