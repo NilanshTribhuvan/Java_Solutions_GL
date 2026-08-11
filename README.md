@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1331-rank-transform-of-an-array) |
 ## Quickselect
 |  |
