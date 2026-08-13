@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0901-online-stock-span) |
 ## Hash Table
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1331-rank-transform-of-an-array) |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
