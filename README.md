@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
