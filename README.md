@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0084-largest-rectangle-in-histogram) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 ## Bucket Sort
