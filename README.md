@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
