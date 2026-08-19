@@ -3,10 +3,8 @@ class Solution {
         int n=intervals.length;
         int i=0;
         List<int[]> result=new ArrayList<>();
-        if(n==0){
-            result.add(newInterval);
-        }
-        while(i<n){
+        
+        
             while(i<n && intervals[i][1]<newInterval[0]){
                 result.add(intervals[i]);
                 i++;
@@ -21,7 +19,6 @@ class Solution {
                 result.add(intervals[i]);
                 i++;
             }
-        }
         return result.toArray(new int[result.size()][]);
 
     }
