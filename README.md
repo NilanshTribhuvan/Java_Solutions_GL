@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
