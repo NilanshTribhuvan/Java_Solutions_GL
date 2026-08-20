@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2104-sum-of-subarray-ranges) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Stack
 |  |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
