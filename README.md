@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
