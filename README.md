@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2104-sum-of-subarray-ranges) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
@@ -273,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
