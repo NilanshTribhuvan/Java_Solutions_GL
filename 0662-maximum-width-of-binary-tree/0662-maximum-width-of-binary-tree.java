@@ -35,20 +35,22 @@ class Solution {
            int mmin=q.peek().level;
            int start=0,last=0;
            for(int i=0;i<size;i++){
-                int curr=q.peek().level-mmin;
-                TreeNode node= q.peek().node;
-                q.poll();
-                
-                if(i==0)start=curr;
-                if(i==size-1)last=curr;
+                Couple couple=q.poll();
+                int index=couple.level-mmin;
+                TreeNode node= couple.node;
+                if(i==0)start=index;
+
+                if(i==size-1)last=index;
+
                 if(node.left!=null){
-                    q.offer(new Couple(node.left,2*curr+1));
+                    q.offer(new Couple(node.left,2*index+1));
                 }
+
                 if(node.right!=null){
-                    q.offer(new Couple(node.right,2*curr+2));
+                    q.offer(new Couple(node.right,2*index+2));
                 }
            }
-             ans=Math.max(ans,(last-start)+1);
+            ans=Math.max(ans,(last-start)+1);
         }
         return ans;
     }
