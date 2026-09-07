@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0662-maximum-width-of-binary-tree) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0662-maximum-width-of-binary-tree) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0260-single-number-iii) |
 ## Quicksort
 |  |
