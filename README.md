@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
