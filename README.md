@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3871-count-commas-in-range-ii) |
 ## Counting
 |  |
 | ------- |
