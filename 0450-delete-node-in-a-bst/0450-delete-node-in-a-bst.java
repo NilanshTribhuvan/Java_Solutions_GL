@@ -18,47 +18,26 @@ class Solution {
         if(root==null){
             return null;
         }
-        if(root.val==key){
-            return dele(root);
+        if(root.val>key){
+            root.left=deleteNode(root.left,key);
+            return root;
         }
-        TreeNode curr=root;
-        while(curr!=null){
-            if(curr.val>=key){
-                if(curr.left!=null && curr.left.val==key){
-                    curr.left=dele(curr.left);
-                    break;
-                }else{
-                    curr=curr.left;
-                }
-            }else{
-                if(curr.right!=null && curr.right.val==key){
-                    curr.right=dele(curr.right);
-                    break;
-                }else{
-                    curr=curr.right;
-                }
-            }
-
+        if(root.val<key){
+            root.right=deleteNode(root.right,key);
+            return root;
         }
-        return root;
-        
-    }
-    public TreeNode dele(TreeNode root){
         if(root.left==null){
             return root.right;
         }
-        else if(root.right==null){
+        if(root.right==null){
             return root.left;
         }
-        TreeNode rightChild = root.right;
-        TreeNode leftlast=find(root.left);
-        leftlast.right=rightChild;
-        return root.left;
-    }
-    private TreeNode find(TreeNode root){
-        if(root.right==null){
-            return root;
+        TreeNode node = root.right;
+        while(node.left!=null){
+            node=node.left;
         }
-        return find(root.right);
+        node.left=root.left;
+        return root.right;
     }
+    
 }
