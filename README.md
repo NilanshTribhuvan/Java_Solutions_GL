@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
 ## Queue
 |  |
 | ------- |
