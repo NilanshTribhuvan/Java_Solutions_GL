@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
