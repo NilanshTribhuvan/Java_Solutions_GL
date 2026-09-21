@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0057-insert-interval) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
 ## Queue
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Game Theory
