@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1373-maximum-sum-bst-in-binary-tree) |
