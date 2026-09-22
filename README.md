@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2104-sum-of-subarray-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Queue
 |  |
 | ------- |
