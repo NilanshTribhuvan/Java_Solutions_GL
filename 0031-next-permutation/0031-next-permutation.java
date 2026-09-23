@@ -20,7 +20,7 @@ class Solution {
        
        reverse(nums,indx+1,nums.length-1);
        }
-       //helper reverse function
+
        void reverse(int[] nums,int start,int end){
         while(start<end){
             swap(nums,start, end);
@@ -28,7 +28,6 @@ class Solution {
             end--;
         }
        }
-       //helper swap function
        void swap(int[] nums,int i,int j){
         int temp=nums[i];
         nums[i]=nums[j];
