@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -462,4 +466,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
