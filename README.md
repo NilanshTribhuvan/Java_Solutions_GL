@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0228-summary-ranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
