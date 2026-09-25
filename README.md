@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0152-maximum-product-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
