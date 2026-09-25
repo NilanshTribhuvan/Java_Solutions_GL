@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0118-pascals-triangle) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0653-two-sum-iv-input-is-a-bst) |
