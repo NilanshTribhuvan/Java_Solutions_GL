@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0081-search-in-rotated-sorted-array-ii) |
