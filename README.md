@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
