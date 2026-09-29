@@ -3,6 +3,7 @@ class Solution {
         int low = 0;
         int high=0;
         int res=-1;
+        if(bloomDay.length<m*k) return -1;
         for(int num:bloomDay){
             low=Math.min(low,num);
         }
