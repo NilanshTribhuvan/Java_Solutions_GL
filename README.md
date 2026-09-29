@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
