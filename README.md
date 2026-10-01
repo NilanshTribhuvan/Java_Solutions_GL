@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0835-image-overlap) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2643-row-with-maximum-ones](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2643-row-with-maximum-ones) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0704-binary-search) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
 ## Sorting
