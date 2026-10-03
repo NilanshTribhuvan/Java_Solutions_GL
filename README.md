@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0260-single-number-iii) |
@@ -570,4 +572,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
