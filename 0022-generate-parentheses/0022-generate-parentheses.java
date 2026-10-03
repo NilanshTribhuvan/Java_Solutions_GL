@@ -4,16 +4,16 @@ class Solution {
         generate(n,0,"",0,0,ans);
         return ans;
     }
-    public void generate(int n,int index,String currstr,int open,int close, List<String> ans){
+    public void generate(int n, int index , String s, int open,int closed,List<String> ans){
         if(index==2*n){
-            ans.add(currstr);
+            ans.add(s);
             return;
         }
         if(open<n){
-            generate(n,index+1,currstr+"(",open+1,close,ans);
+            generate(n,index+1,s+"(",open+1,closed,ans);
         }
-        if(close<open){
-            generate(n,index+1,currstr+")",open,close+1,ans);
-        }
+         if(closed<open){
+            generate(n,index+1,s+")",open,closed+1,ans);
+         }
     }
 }
