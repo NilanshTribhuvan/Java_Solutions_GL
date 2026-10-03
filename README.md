@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 ## Greedy
@@ -556,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
