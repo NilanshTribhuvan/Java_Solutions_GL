@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -563,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
