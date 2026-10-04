@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
+| [1922-count-good-numbers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
