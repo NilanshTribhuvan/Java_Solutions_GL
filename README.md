@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
