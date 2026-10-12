@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bucket Sort
 |  |
