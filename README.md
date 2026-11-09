@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0078-subsets) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0085-maximal-rectangle) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
