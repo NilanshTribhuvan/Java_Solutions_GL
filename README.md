@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0240-search-a-2d-matrix-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0904-fruit-into-baskets) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
