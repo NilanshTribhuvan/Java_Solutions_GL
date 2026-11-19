@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0493-reverse-pairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/NilanshTribhuvan/Java_Solutions_GL/tree/master/0621-task-scheduler) |
